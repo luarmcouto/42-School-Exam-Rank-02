@@ -5,7 +5,7 @@ int main(int argc, char **argv)
 	int start;
 	int end;
 	int i = 0;
-		
+
 	if(argc == 2)
 	{   
 		while(argv[1][i] != '\0')
